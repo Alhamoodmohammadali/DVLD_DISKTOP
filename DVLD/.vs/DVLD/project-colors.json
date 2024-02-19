@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1be28ad-d036-4c77-964c-9ee4acc6727a": {
+      "ProjectGuid": "c1be28ad-d036-4c77-964c-9ee4acc6727a",
+      "DisplayName": "DVLD_DataAccess",
+      "ColorIndex": 0
+    },
+    "7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5": {
+      "ProjectGuid": "7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5",
+      "DisplayName": "DVLD",
+      "ColorIndex": 1
+    },
+    "46a8427b-dcfc-4daf-a14c-e3f4789a993d": {
+      "ProjectGuid": "46a8427b-dcfc-4daf-a14c-e3f4789a993d",
+      "DisplayName": "DVLD_Buisness",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1a8287b2-28e7-434b-bfb4-1293a87eeb00": {
+      "ProjectGuid": "1a8287b2-28e7-434b-bfb4-1293a87eeb00",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    },
+    "936dae59-03ab-477f-8cfd-206d2b0659cd": {
+      "ProjectGuid": "936dae59-03ab-477f-8cfd-206d2b0659cd",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

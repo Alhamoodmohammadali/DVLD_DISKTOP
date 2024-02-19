@@ -1,0 +1,658 @@
+﻿++Solution 'DVLD' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:DVLD.sln
+++DVLD_Buisness
+i:{00000000-0000-0000-0000-000000000000}:DVLD_Buisness
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++Properties
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\properties\
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\properties\
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\properties\
+++AssemblyInfo.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\properties\assemblyinfo.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\properties\assemblyinfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\properties\assemblyinfo.cs
+++References
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++DVLD_DataAccess
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{00000000-0000-0000-0000-000000000000}:DVLD_DataAccess
+++Microsoft.CSharp
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System.Core
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System.Data
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System.Data.DataSetExtensions
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System.Net.Http
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System.Xml
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System.Xml.Linq
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++clsApplication.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clsapplication.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clsapplication.cs
+++clsApplicationType.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clsapplicationtype.cs
+++clsCountry.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clscountry.cs
+++clsDetainedLicense.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clsdetainedlicense.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clsdetainedlicense.cs
+++clsDriver.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clsdriver.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clsdriver.cs
+++clsInternationalLicense.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clsinternationallicense.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clsinternationallicense.cs
+++clsLicense.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clslicense.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clslicense.cs
+++clsLicenseClass.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clslicenseclass.cs
+++clsLocalDrivingLicenseApplication.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clslocaldrivinglicenseapplication.cs
+++clsPerson.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clsperson.cs
+++clsTest.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clstest.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clstest.cs
+++clsTestAppointment.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clstestappointment.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clstestappointment.cs
+++clsTestType.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clstesttype.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clstesttype.cs
+++clsUser.cs
+i:{46a8427b-dcfc-4daf-a14c-e3f4789a993d}:f:\c#\project\dvld_buisness\clsuser.cs
+++System.Windows.Forms
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++ApplicationType.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\applicationtype.cs
+++clsCountryData.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clscountrydata.cs
+++clsDataAccessSettings.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clsdataaccesssettings.cs
+++clsLocalDrivingLicenseApplicationData.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clslocaldrivinglicenseapplicationdata.cs
+++clsPersonData.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clspersondata.cs
+++clsUserData.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\clsuserdata.cs
+++LicenseClass.cs
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:f:\c#\project\dvld_dataaccess\licenseclass.cs
+++DVLD
+i:{00000000-0000-0000-0000-000000000000}:DVLD
+++Resources.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\properties\resources.resx
+++Settings.settings
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\properties\settings.settings
+++Applications
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\
+++Application Types
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\application types\
+++Controls
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\controls\
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\controls\
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\controls\
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\controls\
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\controls\
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\controls\
+++International License
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\international license\
+++Local Driving License
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\
+++Renew Local License
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\renew local license\
+++ReplaceLostOrDamagedLicense
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\replacelostordamagedlicense\
+++Rlease Detained License
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\rlease detained license\
+++Drivers
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\drivers\
+++Global Classes
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\global classes\
+++clsFormat.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\global classes\clsformat.cs
+++clsGlobal.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\global classes\clsglobal.cs
+++clsValidatoin.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\global classes\clsvalidatoin.cs
+++util.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\global classes\util.cs
+++Licenses
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\
+++Detain License
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\detain license\
+++International Licenses
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\
+++Local Licenses
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\
+++frmShowPersonLicenseHistory.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\frmshowpersonlicensehistory.cs
+++Login
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\login\
+++People
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\
+++Resources
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\
+++Tests
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\
+++Test Types
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\test types\
+++frmListTestAppointments.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmlisttestappointments.cs
+++frmScheduleTest.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmscheduletest.cs
+++frmTakeTest.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmtaketest.cs
+++User
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\
+++ctrlUserCard.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\ctrlusercard.cs
+++frmAddUpdateUser.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmaddupdateuser.cs
+++frmChangePassword.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmchangepassword.cs
+++frmListUsers.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmlistusers.cs
+++frmUserInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmuserinfo.cs
+++frmMain.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\frmmain.cs
+++Program.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\program.cs
+++Resources.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\properties\settings.designer.cs
+++System.Deployment
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++System.Drawing
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:
+++frmEditApplicationType.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\application types\frmeditapplicationtype.cs
+++frmListApplicationTypes.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\application types\frmlistapplicationtypes.cs
+++ctrlApplicationBasicInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\controls\ctrlapplicationbasicinfo.cs
+++frmListInternationalLicesnseApplications.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\international license\frmlistinternationallicesnseapplications.cs
+++frmNewInternationalLicenseApplication.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\international license\frmnewinternationallicenseapplication.cs
+++ctrlDrivingLicenseApplicationInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\ctrldrivinglicenseapplicationinfo.cs
+++frmAddUpdateLocalDrivingLicesnseApplication.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmaddupdatelocaldrivinglicesnseapplication.cs
+++frmListLocalDrivingLicesnseApplications.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmlistlocaldrivinglicesnseapplications.cs
+++frmLocalDrivingLicenseApplicationInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmlocaldrivinglicenseapplicationinfo.cs
+++frmRenewLocalDrivingLicenseApplication.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\renew local license\frmrenewlocaldrivinglicenseapplication.cs
+++frmReplaceLostOrDamagedLicenseApplication.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\replacelostordamagedlicense\frmreplacelostordamagedlicenseapplication.cs
+++frmListDetainedLicenses.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\rlease detained license\frmlistdetainedlicenses.cs
+++frmReleaseDetainedLicenseApplication.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\rlease detained license\frmreleasedetainedlicenseapplication.cs
+++frmListDrivers.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\drivers\frmlistdrivers.cs
+++ctrlDriverLicenses.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\controls\ctrldriverlicenses.cs
+++frmDetainLicenseApplication.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\detain license\frmdetainlicenseapplication.cs
+++frmShowInternationalLicenseInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\frmshowinternationallicenseinfo.cs
+++frmIssueDriverLicenseFirstTime.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\frmissuedriverlicensefirsttime.cs
+++frmShowLicenseInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\frmshowlicenseinfo.cs
+++frmShowPersonLicenseHistory.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\frmshowpersonlicensehistory.designer.cs
+++frmShowPersonLicenseHistory.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\frmshowpersonlicensehistory.resx
+++frmLogin.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\login\frmlogin.cs
+++frmAddUpdatePerson.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmaddupdateperson.cs
+++frmFindPerson.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmfindperson.cs
+++frmListPeople.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmlistpeople.cs
+++frmShowPersonInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmshowpersoninfo.cs
+++account_settings 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\account_settings 64.png
+++Add New User 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\add new user 32.png
+++Add New User 72.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\add new user 72.png
+++Add Person 40.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\add person 40.png
+++Add Person 72.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\add person 72.png
+++AddAppointment 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\addappointment 32.png
+++AddPerson 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\addperson 32.png
+++Address 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\address 32.png
+++Application Types 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\application types 512.png
+++Application Types 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\application types 64.png
+++Applications 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\applications 64.png
+++Applications.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\applications.png
+++ApplicationTitle.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\applicationtitle.png
+++ApplicationType.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\applicationtype.png
+++Calendar 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\calendar 32.png
+++call 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\call 32.png
+++Cars 48.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\cars 48.png
+++Close 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\close 32.png
+++Close 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\close 64.png
+++CloseBlack.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\closeblack.png
+++CloseBlack1.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\closeblack1.png
+++closeBlack32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\closeblack32.png
+++Count 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\count 32.png
+++Country 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\country 32.png
+++cross 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\cross 32.png
+++cross 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\cross 64.png
+++Damaged Driving License 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\damaged driving license 32.png
+++Delete 32 2.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\delete 32 2.png
+++Delete 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\delete 32.png
+++Detain 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\detain 32.png
+++Detain 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\detain 512.png
+++Detain 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\detain 64.png
+++Detained Driving License 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\detained driving license 32.png
+++Driver License 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\driver license 32.png
+++Driver Main.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\driver main.png
+++Drivers 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\drivers 64.png
+++driving-test 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\driving-test 512.png
+++DVLD Logo.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\dvld logo.png
+++edit 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\edit 32.png
+++Email 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\email 32.png
+++Faild.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\faild.png
+++Female 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\female 512.png
+++IconLogo.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\iconlogo.png
+++International 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\international 32.png
+++IssueDrivingLicense 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\issuedrivinglicense 32.png
+++License Type 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\license type 32.png
+++License View 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\license view 32.png
+++LicenseView 400.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\licenseview 400.png
+++List 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\list 32.png
+++Local 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\local 32.png
+++Local Driving License 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\local driving license 512.png
+++Local Driving License 5121.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\local driving license 5121.png
+++LocalDriving License.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\localdriving license.png
+++Logo Final.jpg
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\logo final.jpg
+++Lost Driving License 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\lost driving license 32.png
+++Male 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\male 512.png
+++Man 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\man 32.png
+++Manage Applications 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\manage applications 32.png
+++Manage Applications 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\manage applications 64.png
+++Manage People.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\manage people.png
+++money 32 - 2.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\money 32 - 2.png
+++money 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\money 32.png
+++New Application 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\new application 64.png
+++New Driving License 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\new driving license 32.png
+++Next 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\next 32.png
+++Next 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\next 64.png
+++Notes 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\notes 32.png
+++Number 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\number 32.png
+++PassedTests 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\passedtests 32.png
+++Password 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\password 32.png
+++People 400.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\people 400.png
+++People 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\people 512.png
+++People 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\people 64.png
+++Person 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\person 32.png
+++PersonDetails 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\persondetails 32.png
+++PersonLicenseHistory 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\personlicensehistory 32.png
+++PersonLicenseHistory 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\personlicensehistory 512.png
+++Phone 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\phone 32.png
+++Question 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\question 32.png
+++Release Detained License 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\release detained license 32.png
+++Release Detained License 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\release detained license 512.png
+++Release Detained License 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\release detained license 64.png
+++Renew Driving License 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\renew driving license 32.png
+++Retake Test 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\retake test 32.png
+++Save 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\save 32.png
+++Schedule Test 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\schedule test 32.png
+++Schedule Test 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\schedule test 512.png
+++SearchPerson.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\searchperson.png
+++send email 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\send email 32.png
+++Sign Out 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\sign out 32.png
+++sign_in 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\sign_in 32.png
+++sign_out 32 -2.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\sign_out 32 -2.png
+++SignOut 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\signout 64.png
+++Street Test 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\street test 32.png
+++Test 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\test 32.png
+++Test Type 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\test type 64.png
+++TestType 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\testtype 32.png
+++TestType 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\testtype 512.png
+++User 32 -2.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\user 32 -2.png
+++Users 2 400.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\users 2 400.png
+++Users 2 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\users 2 64.png
+++users 64.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\users 64.png
+++Vision 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\vision 512.png
+++Vision Test 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\vision test 32.png
+++wallpaper.jpg
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\wallpaper.jpg
+++wallpaper1.jpg
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\wallpaper1.jpg
+++WallPaper2.jpg
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\wallpaper2.jpg
+++Woman 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\woman 32.png
+++Written Test 32 Sechdule.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\written test 32 sechdule.png
+++Written Test 32.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\written test 32.png
+++Written Test 512.png
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\resources\written test 512.png
+++crlScheduleTest.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\controls\crlscheduletest.cs
+++ctrlSecheduledTest.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\controls\ctrlsecheduledtest.cs
+++frmEditTestType.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\test types\frmedittesttype.cs
+++frmListTestTypes.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\test types\frmlisttesttypes.cs
+++frmListTestAppointments.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmlisttestappointments.designer.cs
+++frmListTestAppointments.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmlisttestappointments.resx
+++frmScheduleTest.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmscheduletest.designer.cs
+++frmScheduleTest.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmscheduletest.resx
+++frmTakeTest.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmtaketest.designer.cs
+++frmTakeTest.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\frmtaketest.resx
+++ctrlUserCard.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\ctrlusercard.designer.cs
+++ctrlUserCard.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\ctrlusercard.resx
+++frmAddUpdateUser.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmaddupdateuser.designer.cs
+++frmAddUpdateUser.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmaddupdateuser.resx
+++frmChangePassword.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmchangepassword.designer.cs
+++frmChangePassword.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmchangepassword.resx
+++frmListUsers.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmlistusers.designer.cs
+++frmListUsers.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmlistusers.resx
+++frmUserInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmuserinfo.designer.cs
+++frmUserInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\user\frmuserinfo.resx
+++frmMain.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\frmmain.designer.cs
+++frmMain.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\frmmain.resx
+++frmEditApplicationType.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\application types\frmeditapplicationtype.designer.cs
+++frmEditApplicationType.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\application types\frmeditapplicationtype.resx
+++frmListApplicationTypes.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\application types\frmlistapplicationtypes.designer.cs
+++frmListApplicationTypes.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\application types\frmlistapplicationtypes.resx
+++ctrlApplicationBasicInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\controls\ctrlapplicationbasicinfo.designer.cs
+++ctrlApplicationBasicInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\controls\ctrlapplicationbasicinfo.resx
+++frmListInternationalLicesnseApplications.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\international license\frmlistinternationallicesnseapplications.designer.cs
+++frmListInternationalLicesnseApplications.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\international license\frmlistinternationallicesnseapplications.resx
+++frmNewInternationalLicenseApplication.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\international license\frmnewinternationallicenseapplication.designer.cs
+++frmNewInternationalLicenseApplication.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\international license\frmnewinternationallicenseapplication.resx
+++ctrlDrivingLicenseApplicationInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\ctrldrivinglicenseapplicationinfo.designer.cs
+++ctrlDrivingLicenseApplicationInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\ctrldrivinglicenseapplicationinfo.resx
+++frmAddUpdateLocalDrivingLicesnseApplication.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmaddupdatelocaldrivinglicesnseapplication.designer.cs
+++frmAddUpdateLocalDrivingLicesnseApplication.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmaddupdatelocaldrivinglicesnseapplication.resx
+++frmListLocalDrivingLicesnseApplications.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmlistlocaldrivinglicesnseapplications.designer.cs
+++frmListLocalDrivingLicesnseApplications.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmlistlocaldrivinglicesnseapplications.resx
+++frmLocalDrivingLicenseApplicationInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmlocaldrivinglicenseapplicationinfo.designer.cs
+++frmLocalDrivingLicenseApplicationInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\local driving license\frmlocaldrivinglicenseapplicationinfo.resx
+++frmRenewLocalDrivingLicenseApplication.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\renew local license\frmrenewlocaldrivinglicenseapplication.designer.cs
+++frmRenewLocalDrivingLicenseApplication.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\renew local license\frmrenewlocaldrivinglicenseapplication.resx
+++frmReplaceLostOrDamagedLicenseApplication.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\replacelostordamagedlicense\frmreplacelostordamagedlicenseapplication.designer.cs
+++frmReplaceLostOrDamagedLicenseApplication.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\replacelostordamagedlicense\frmreplacelostordamagedlicenseapplication.resx
+++frmListDetainedLicenses.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\rlease detained license\frmlistdetainedlicenses.designer.cs
+++frmListDetainedLicenses.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\rlease detained license\frmlistdetainedlicenses.resx
+++frmReleaseDetainedLicenseApplication.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\rlease detained license\frmreleasedetainedlicenseapplication.designer.cs
+++frmReleaseDetainedLicenseApplication.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\applications\rlease detained license\frmreleasedetainedlicenseapplication.resx
+++frmListDrivers.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\drivers\frmlistdrivers.designer.cs
+++frmListDrivers.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\drivers\frmlistdrivers.resx
+++ctrlDriverLicenses.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\controls\ctrldriverlicenses.designer.cs
+++ctrlDriverLicenses.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\controls\ctrldriverlicenses.resx
+++frmDetainLicenseApplication.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\detain license\frmdetainlicenseapplication.designer.cs
+++frmDetainLicenseApplication.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\detain license\frmdetainlicenseapplication.resx
+++ctrlDriverInternationalLicenseInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\controls\ctrldriverinternationallicenseinfo.cs
+++frmShowInternationalLicenseInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\frmshowinternationallicenseinfo.designer.cs
+++frmShowInternationalLicenseInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\frmshowinternationallicenseinfo.resx
+++ctrlDriverLicenseInfo.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\controls\ctrldriverlicenseinfo.cs
+++ctrlDriverLicenseInfoWithFilter.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\controls\ctrldriverlicenseinfowithfilter.cs
+++frmIssueDriverLicenseFirstTime.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\frmissuedriverlicensefirsttime.designer.cs
+++frmIssueDriverLicenseFirstTime.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\frmissuedriverlicensefirsttime.resx
+++frmShowLicenseInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\frmshowlicenseinfo.designer.cs
+++frmShowLicenseInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\frmshowlicenseinfo.resx
+++frmLogin.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\login\frmlogin.designer.cs
+++frmLogin.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\login\frmlogin.resx
+++ctrlPersonCard.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\controls\ctrlpersoncard.cs
+++ctrlPersonCardWithFilter.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\controls\ctrlpersoncardwithfilter.cs
+++frmAddUpdatePerson.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmaddupdateperson.designer.cs
+++frmAddUpdatePerson.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmaddupdateperson.resx
+++frmFindPerson.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmfindperson.designer.cs
+++frmFindPerson.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmfindperson.resx
+++frmListPeople.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmlistpeople.designer.cs
+++frmListPeople.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmlistpeople.resx
+++frmShowPersonInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmshowpersoninfo.designer.cs
+++frmShowPersonInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\frmshowpersoninfo.resx
+++crlScheduleTest.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\controls\crlscheduletest.designer.cs
+++crlScheduleTest.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\controls\crlscheduletest.resx
+++ctrlSecheduledTest.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\controls\ctrlsecheduledtest.designer.cs
+++ctrlSecheduledTest.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\controls\ctrlsecheduledtest.resx
+++frmEditTestType.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\test types\frmedittesttype.designer.cs
+++frmEditTestType.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\test types\frmedittesttype.resx
+++frmListTestTypes.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\test types\frmlisttesttypes.designer.cs
+++frmListTestTypes.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\tests\test types\frmlisttesttypes.resx
+++ctrlDriverInternationalLicenseInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\controls\ctrldriverinternationallicenseinfo.designer.cs
+++ctrlDriverInternationalLicenseInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\international licenses\controls\ctrldriverinternationallicenseinfo.resx
+++ctrlDriverLicenseInfo.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\controls\ctrldriverlicenseinfo.designer.cs
+++ctrlDriverLicenseInfo.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\controls\ctrldriverlicenseinfo.resx
+++ctrlDriverLicenseInfoWithFilter.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\controls\ctrldriverlicenseinfowithfilter.designer.cs
+++ctrlDriverLicenseInfoWithFilter.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\licenses\local licenses\controls\ctrldriverlicenseinfowithfilter.resx
+++ctrlPersonCard.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\controls\ctrlpersoncard.designer.cs
+++ctrlPersonCard.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\controls\ctrlpersoncard.resx
+++ctrlPersonCardWithFilter.Designer.cs
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\controls\ctrlpersoncardwithfilter.designer.cs
+++ctrlPersonCardWithFilter.resx
+i:{7a65e342-bf9d-4abf-856f-3f4f7f7d3ce5}:f:\c#\project\dvld\people\controls\ctrlpersoncardwithfilter.resx
+++Solution Items
+++App.Config
+++System.Configuration
+i:{c1be28ad-d036-4c77-964c-9ee4acc6727a}:
